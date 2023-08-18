@@ -1,2 +1,1 @@
-# ideal-goggles
-password gen
+# Password Generator Starter Code
