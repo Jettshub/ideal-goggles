@@ -9,11 +9,11 @@ A tool with the ability generate a randomized, potentially complex password. Wit
 * JavaScript
 
 ## Screenshots 
-![Screenshot](./Assets/images/Passgen1.png)
-![Screenshot](./Assets/images/Passgen2.png)
-![Screenshot](./Assets/images/Passgen3.png)
-![Screenshot](./Assets/images/Passgen4.png)
-![Screenshot](./Assets/images/Passgen5.png)
+![Screenshot](./Assets/images/passGen1.png)
+![Screenshot](./Assets/images/passGen2.png)
+![Screenshot](./Assets/images/passGen3.png)
+![Screenshot](./Assets/images/passGen4.png)
+![Screenshot](./Assets/images/passGen5.png)
 ![Screenshot](./Assets/images/passGen6.png) 
 
 ## Website
