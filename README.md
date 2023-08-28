@@ -9,12 +9,12 @@ A tool with the ability generate a randomized, potentially complex password. Wit
 * JavaScript
 
 ## Screenshots 
-![Screenshot](./assets/images/Passgen1.png)
-![Screenshot](./assets/images/Passgen2.png)
-![Screenshot](./assets/images/Passgen3.png)
-![Screenshot](./assets/images/Passgen4.png)
-![Screenshot](./assets/images/Passgen5.png)
-![Screenshot](../ideal-goggles/Assets/images/passGen6.png)
+![Screenshot](./Assets/images/Passgen1.png)
+![Screenshot](./Assets/images/Passgen2.png)
+![Screenshot](./Assets/images/Passgen3.png)
+![Screenshot](./Assets/images/Passgen4.png)
+![Screenshot](./Assets/images/Passgen5.png)
+![Screenshot](./Assets/images/passGen6.png) 
 
 ## Website
 https://jettshub.github.io/ideal-goggles/
