@@ -14,7 +14,7 @@ A tool with the ability generate a randomized, potentially complex password. Wit
 ![Screenshot](./assets/images/Passgen3.png)
 ![Screenshot](./assets/images/Passgen4.png)
 ![Screenshot](./assets/images/Passgen5.png)
-![Screenshot](./assets/images/Passgen6.png)
+![Screenshot](../ideal-goggles/Assets/images/passGen6.png)
 
 ## Website
 https://jettshub.github.io/ideal-goggles/
